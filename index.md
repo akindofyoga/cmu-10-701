@@ -17,7 +17,7 @@ Recitations
 
 ### Links
 
-* [Piazza](piazza.com/cmu/fall2020/10701)
+* [Piazza](https://piazza.com/cmu/fall2020/10701)
 * [Gradescope](https://www.gradescope.com/courses/140926)
 * [Videos](https://canvas.cmu.edu/courses/17564)
 * [Office Hours Queue](https://cmu.ohqueue.com)

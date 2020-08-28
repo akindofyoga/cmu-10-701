@@ -21,7 +21,6 @@ You can find slides and examples of homeworks.
 * [Spring 2011](https://www.cs.cmu.edu/~tom/10701_sp11/)
 * [Fall 2010](https://www.cs.cmu.edu/~aarti/Class/10701/index.html)
 * [Spring 2010](https://www.cs.cmu.edu/~epxing/Class/10701-10s/)
-* [Spring 2009](https://www.cs.cmu.edu/~zivbj/class/10701/index.html)
 * [Fall 2008](https://www.cs.cmu.edu/~epxing/Class/10701-08f/)
 * [Spring 2008](https://www.cs.cmu.edu/~epxing/Class/10701-08s/)
 * [Fall 2007](https://www.cs.cmu.edu/~guestrin/Class/10701/)
