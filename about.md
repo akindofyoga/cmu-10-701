@@ -18,7 +18,7 @@ Learning Outcomes
 * Compare and contrast different paradigms for learning (supervised, unsupervised, etc.)
 * Design experiments to evaluate and compare different machine learning techniques on real-world problems
 
-For more details about topics covered, see the [Course Schedule]({% link schedule.md %}).
+For more details about topics covered, see the [Course Schedule]({{ site.url }}{% link schedule.md %}).
 
 # Prerequisites
 
