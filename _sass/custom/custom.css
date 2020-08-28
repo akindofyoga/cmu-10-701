@@ -1,0 +1,30 @@
+.site-header {
+  display: flex;
+  min-height: 160px;
+  align-items: center;
+
+  @include mq(md) {
+    height: 160px;
+    max-height: 160px;
+    border-bottom: $border $border-color;
+  }
+}
+
+.site-title:hover {
+    background-image: none;
+}
+
+.site-subtitle {
+    display: flex;
+    height: 100%;
+    padding: 1rem;
+    align-items: center;
+}
+
+.logo {
+    text-decoration: none;
+}
+
+.main-header {
+    display: flex;
+}
