@@ -1,9 +1,11 @@
+$larger-header-height: 160px;
+
 .site-header {
-  min-height: 160px;
+  min-height: $larger-header-height;
 
   @include mq(md) {
-    height: 160px;
-    max-height: 160px;
+    height: $larger-header-height;
+    max-height: $larger-header-height;
   }
 }
 
