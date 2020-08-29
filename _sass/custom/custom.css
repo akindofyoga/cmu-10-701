@@ -1,12 +1,9 @@
 .site-header {
-  display: flex;
   min-height: 160px;
-  align-items: center;
 
   @include mq(md) {
     height: 160px;
     max-height: 160px;
-    border-bottom: $border $border-color;
   }
 }
 
