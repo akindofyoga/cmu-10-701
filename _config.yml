@@ -26,12 +26,17 @@ description: >-
   applications in machine learning. The topics of the course draw from from
   machine learning, from classical statistics, from data mining, from Bayesian
   statistics and from information theory.
-url: "https://www.cs.cmu.edu/~epxing/Class/10701-20"
+baseurl: "/~epxing/Class/10701-20"
+url: "https://www.cs.cmu.edu"
 
 # Build settings
 theme: "just-the-docs"
 
 exclude:
   - LICENSE.txt
+  - README.md
+
+plugins:
+  - jekyll-seo-tag
 
 search_enabled: false
