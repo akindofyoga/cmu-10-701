@@ -6,9 +6,9 @@ nav_order: 2
 
 ### Foundations and Non-Parametric Methods
 
-|Date|Lecture Topic|Instructor|
-|----|-------------|----------|
-|Mon Aug-31|Intro, Three Axes of ML: Data, Algorithms, Tasks, Intro to probability|Ziv       |
+|Date|Lecture Topic|Instructor|Links|
+|----|-------------|----------|-----|
+|Mon Aug-31|Intro, Three Axes of ML: Data, Algorithms, Tasks, Intro to probability|Ziv       |[Slides]({{ '/slides/lecture1.pdf' | absolute_url }}) &bull; [Video](https://www.youtube.com)|
 |Wed Sep-02|Bayesian Estimation, MAP, MLE|Ziv       |
 |Fri Sep-04|Recitation 1 |          |
 |Mon Sep-07|**No Classes: Labor Day**{: .label .label-red }|          |
