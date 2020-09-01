@@ -8,7 +8,7 @@ nav_order: 2
 
 |Date|Lecture Topic|Instructor|Links|
 |----|-------------|----------|-----|
-|Mon Aug-31|Intro, Three Axes of ML: Data, Algorithms, Tasks, Intro to probability|Ziv       |[Slides]({{ '/slides/lecture1.pdf' | absolute_url }}) &bull; [Video](https://www.youtube.com)|
+|Mon Aug-31|Intro, Three Axes of ML: Data, Algorithms, Tasks, Intro to probability|Ziv       |[Slides]({{ '/slides/lecture1.pdf' | absolute_url }})|
 |Wed Sep-02|Bayesian Estimation, MAP, MLE|Ziv       |
 |Fri Sep-04|Recitation 1 |          |
 |Mon Sep-07|**No Classes: Labor Day**{: .label .label-red }|          |
@@ -17,8 +17,8 @@ nav_order: 2
 
 ### Prediction, Parametric Methods
 
-|Date|Lecture Topic|Instructor|
-|----|-------------|----------|
+|Date|Lecture Topic|Instructor|Links|
+|----|-------------|----------|-----|
 |Mon Sep-14|Naive Bayes, Generative vs Discriminative|Ziv       |
 |Wed Sep-16|Decision Trees|Ziv       |
 |Fri Sep-18|Recitation 3 |          |
@@ -37,8 +37,8 @@ nav_order: 2
 
 ### Unsupervised and Representation Learning
 
-|Date|Lecture Topic|Instructor|
-|----|-------------|----------|
+|Date|Lecture Topic|Instructor|Links|
+|----|-------------|----------|-----|
 |Mon Oct-19|Clustering, Kmeans|Eric      |
 |Wed Oct-21|Clustering: Mixture of Gaussians, Expectation Maximization|Eric      |
 |Fri Oct-23|**No Classes: Midsemester Break**{: .label .label-red }|          |
@@ -48,8 +48,8 @@ nav_order: 2
 
 ### Graphical and sequence models
 
-|Date|Lecture Topic|Instructor|
-|----|-------------|----------|
+|Date|Lecture Topic|Instructor|Links|
+|----|-------------|----------|-----|
 |Mon Nov-02|Graphical Models (Bayesian Networks)|Ziv       |
 |Wed Nov-04|Graphical Models (Bayesian Networks 2)|Ziv       |
 |Fri Nov-06|Recitation 8 |          |
@@ -59,8 +59,8 @@ nav_order: 2
 
 ### Theoretical considerations
 
-|Date|Lecture Topic|Instructor|
-|----|-------------|----------|
+|Date|Lecture Topic|Instructor|Links|
+|----|-------------|----------|-----|
 |Mon Nov-16|Learning Theory: Statistical Guarantees for Empirical Risk Minimization|Eric      |
 |Wed Nov-18|Generalization, Model Selection|Eric      |
 |Fri Nov-20|Recitation 10 Proposed Final Exam Review|          |
@@ -70,8 +70,8 @@ nav_order: 2
 
 ### Actions
 
-|Date|Lecture Topic|Instructor|
-|----|-------------|----------|
+|Date|Lecture Topic|Instructor|Links|
+|----|-------------|----------|-----|
 |Mon Nov-30|Industry lecture|          |
 |Wed Dec-02|Reinforcement Learning|Eric      |
 |Fri Dec-04|Recitation 11|          |
