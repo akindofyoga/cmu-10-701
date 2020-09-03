@@ -8,8 +8,8 @@ nav_order: 2
 
 |Date|Lecture Topic|Instructor|Links|
 |----|-------------|----------|-----|
-|Mon Aug-31|Intro, Three Axes of ML: Data, Algorithms, Tasks, Intro to probability|Ziv       |[Slides]({{ '/slides/lecture1.pdf' | absolute_url }}) &bull; [Video](https://www.youtube.com/watch?v=7sMnKGBe36k)|
-|Wed Sep-02|Bayesian Estimation, MAP, MLE|Ziv       |
+|Mon Aug-31|Intro, Three Axes of ML: Data, Algorithms, Tasks, Intro to probability|Ziv       |[Slides]({{ '/slides/lecture1.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/7sMnKGBe36k)|
+|Wed Sep-02|Bayesian Estimation, MAP, MLE|Ziv       |[Slides]({{ '/slides/lecture2.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/BqoKDBHtrno)|
 |Fri Sep-04|Recitation 1 |          |
 |Mon Sep-07|**No Classes: Labor Day**{: .label .label-red }|          |
 |Wed Sep-09|Decision Theory,  Risk Minimization, K nearest neighbors|Ziv       |
