@@ -4,10 +4,14 @@ title: Home
 nav_order: 1
 ---
 
+## Announcements
+
+* Homework 1 is due Wednesday, Sep 23rd, 2020 &bull; [PDF]({{ '/hw/F20_10701_HW1.pdf' | absolute_url }}) &bull; [LaTeX Source]({{ '/hw/F20_10701_HW1_Latex.zip' | absolute_url }})
+
 ## Course Info
 
 Instructors
-: [Ziv Bar-Joseph](http://www.cs.cmu.edu/~zivbj), [Eric Xing](http://www.cs.cmu.edu/~epxing)
+: [Ziv Bar-Joseph](https://www.cs.cmu.edu/~zivbj), [Eric Xing](https://www.cs.cmu.edu/~epxing)
 
 Meetings
 : MW, 11:40 AM - 1:00 PM (Online Only)
