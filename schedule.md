@@ -12,7 +12,7 @@ nav_order: 2
 |Wed Sep-02|Bayesian Estimation, MAP, MLE|Ziv       |[Slides]({{ '/slides/lecture2.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/BqoKDBHtrno)|
 |Fri Sep-04|Recitation 1 |          |
 |Mon Sep-07|**No Classes: Labor Day**{: .label .label-red }|          |
-|Wed Sep-09|Decision Theory,  Risk Minimization, K nearest neighbors|Ziv       |
+|Wed Sep-09|Decision Theory,  Risk Minimization, K nearest neighbors|Ziv       |[Slides]({{ '/slides/lecture3.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/0ltxHFcb9Zk)|
 |Fri Sep-11|Recitation 2 |          |
 
 ### Prediction, Parametric Methods
