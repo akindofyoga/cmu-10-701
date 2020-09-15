@@ -19,7 +19,7 @@ nav_order: 2
 
 |Date|Lecture Topic|Instructor|Links|
 |----|-------------|----------|-----|
-|Mon Sep-14|Naive Bayes, Generative vs Discriminative|Ziv       |
+|Mon Sep-14|Naive Bayes, Generative vs Discriminative|Ziv       |[Slides]({{ '/slides/lecture4.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/X9eiUitrzXY)|
 |Wed Sep-16|Decision Trees|Ziv       |
 |Fri Sep-18|Recitation 3 |          |
 |Mon Sep-21|Linear regression|Ziv       |
