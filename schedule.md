@@ -20,9 +20,9 @@ nav_order: 2
 |Date|Lecture Topic|Instructor|Links|
 |----|-------------|----------|-----|
 |Mon Sep-14|Naive Bayes, Generative vs Discriminative|Ziv       |[Slides]({{ '/slides/lecture4.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/X9eiUitrzXY)|
-|Wed Sep-16|Decision Trees|Ziv       |
+|Wed Sep-16|Decision Trees|Ziv       |[Slides]({{ '/slides/lecture5.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/g_a0c1ZUVKQ)|
 |Fri Sep-18|Recitation 3 |          |
-|Mon Sep-21|Linear regression|Ziv       |
+|Mon Sep-21|Bagging, Random Forest, Linear regression|Ziv       |[Slides]({{ '/slides/lecture6.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/4EquR17FTlg)|
 |Wed Sep-23|Logistic Regression|Ziv       |
 |Fri Sep-25|Recitation 4 |          |
 |Mon Sep-28|**No Classes: Yom Kippur**{: .label .label-red }|          |
