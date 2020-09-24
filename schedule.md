@@ -23,7 +23,7 @@ nav_order: 2
 |Wed Sep-16|Decision Trees|Ziv       |[Slides]({{ '/slides/lecture5.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/g_a0c1ZUVKQ)|
 |Fri Sep-18|Recitation 3 |          |
 |Mon Sep-21|Bagging, Random Forest, Linear regression|Ziv       |[Slides]({{ '/slides/lecture6.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/4EquR17FTlg)|
-|Wed Sep-23|Logistic Regression|Ziv       |
+|Wed Sep-23|Logistic Regression|Ziv       |[Slides]({{ '/slides/lecture7.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/ZLqQRSOU7-M)|
 |Fri Sep-25|Recitation 4 |          |
 |Mon Sep-28|**No Classes: Yom Kippur**{: .label .label-red }|          |
 |Wed Sep-30|Support Vector Machines 1|Ziv       |
