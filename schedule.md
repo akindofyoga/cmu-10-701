@@ -26,7 +26,7 @@ nav_order: 2
 |Wed Sep-23|Logistic Regression|Ziv       |[Slides]({{ '/slides/lecture7.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/ZLqQRSOU7-M)|
 |Fri Sep-25|Recitation 4 |          |
 |Mon Sep-28|**No Classes: Yom Kippur**{: .label .label-red }|          |
-|Wed Sep-30|Support Vector Machines 1|Ziv       |
+|Wed Sep-30|Support Vector Machines 1|Ziv       |[Slides]({{ '/slides/lecture8.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/nJ1oB4bz8BI)|
 |Fri Oct-02|Recitation 5 |          |
 |Mon Oct-05|Support Vector Machines 2|Ziv       |
 |Wed Oct-07|Neural Networks and Deep Learning|Eric      |
