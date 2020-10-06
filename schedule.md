@@ -28,7 +28,7 @@ nav_order: 2
 |Mon Sep-28|**No Classes: Yom Kippur**{: .label .label-red }|          |
 |Wed Sep-30|Support Vector Machines 1|Ziv       |[Slides]({{ '/slides/lecture8.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/nJ1oB4bz8BI)|
 |Fri Oct-02|Recitation 5 |          |
-|Mon Oct-05|Support Vector Machines 2|Ziv       |
+|Mon Oct-05|Support Vector Machines 2|Ziv       |[Slides]({{ '/slides/lecture8.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/AWCHHAzKTKU)|
 |Wed Oct-07|Neural Networks and Deep Learning|Eric      |
 |Fri Oct-09|Recitation 6 |          |
 |Mon Oct-12|Neural Networks and Deep Learning 2|Eric      |
