@@ -6,6 +6,7 @@ nav_order: 1
 
 ## Announcements
 
+* Homework 3 is due Wednesday, Oct 21st, 2020 &bull; [Handout]({{ '/hw/F20_10701_HW3_Handout.zip' | absolute_url }})
 * Homework 2 is due Wednesday, Oct 7th, 2020 &bull; [Handout]({{ '/hw/F20_10701_HW2_Handout.zip' | absolute_url }})
 * Homework 1 is due Wednesday, Sep 23rd, 2020 &bull; [PDF]({{ '/hw/F20_10701_HW1.pdf' | absolute_url }}) &bull; [LaTeX Source]({{ '/hw/F20_10701_HW1_Latex.zip' | absolute_url }})
 
