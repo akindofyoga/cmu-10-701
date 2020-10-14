@@ -32,7 +32,7 @@ nav_order: 2
 |Wed Oct-07|Neural Networks and Deep Learning|Eric      |[Slides]({{ '/slides/lecture10.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/f2vOb6FLDuU)|
 |Fri Oct-09|Recitation 6 |          |
 |Mon Oct-12|Neural Networks and Deep Learning 2|Eric      |[Slides]({{ '/slides/lecture11.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/q8mW30VU3Hs)|
-|Wed Oct-14|Boosting, Surrogate Losses, Ensemble Methods|Eric      |
+|Wed Oct-14|Boosting, Surrogate Losses, Ensemble Methods|Eric      |[Slides]({{ '/slides/lecture12.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/P88yObNdrYs)|
 |Fri Oct-16|**No Classes: Community Engagement day**{: .label .label-red }|          |
 
 ### Unsupervised and Representation Learning
