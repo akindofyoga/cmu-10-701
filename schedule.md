@@ -40,7 +40,7 @@ nav_order: 2
 |Date|Lecture Topic|Instructor|Links|
 |----|-------------|----------|-----|
 |Mon Oct-19|Clustering, Kmeans|Eric      |[Slides]({{ '/slides/lecture13.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/iAhwCOxWp0k)|
-|Wed Oct-21|Clustering: Mixture of Gaussians, Expectation Maximization|Eric      |
+|Wed Oct-21|Clustering: Mixture of Gaussians, Expectation Maximization|Eric      |[Slides]({{ '/slides/lecture14.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/l3_IiM_ihCw)|
 |Fri Oct-23|**No Classes: Midsemester Break**{: .label .label-red }|          |
 |Mon Oct-26|Representation Learning: Feature Transformation, Random Features, PCA|Eric      |
 |Wed Oct-28|Representation Learning: PCA, ICA	|Eric      |
