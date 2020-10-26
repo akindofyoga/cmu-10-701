@@ -42,8 +42,8 @@ nav_order: 2
 |Mon Oct-19|Clustering, Kmeans|Eric      |[Slides]({{ '/slides/lecture13.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/iAhwCOxWp0k)|
 |Wed Oct-21|Clustering: Mixture of Gaussians, Expectation Maximization|Eric      |[Slides]({{ '/slides/lecture14.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/l3_IiM_ihCw)|
 |Fri Oct-23|**No Classes: Midsemester Break**{: .label .label-red }|          |
-|Mon Oct-26|Representation Learning: Feature Transformation, Random Features, PCA|Eric      |
-|Wed Oct-28|Representation Learning: PCA, ICA	|Eric      |
+|Mon Oct-26|Representation Learning: Feature Transformation, Random Features, PCA|Eric      |[Slides]({{ '/slides/lecture15.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/tzdPOr3nD2Y)|
+|Wed Oct-28|Representation Learning: PCA, ICA	|Eric      |[Slides]({{ '/slides/lecture16.pdf' | absolute_url }})|
 |Fri Oct-30|Recitation 7 |          |
 
 ### Graphical and sequence models
