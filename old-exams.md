@@ -8,6 +8,12 @@ These are exams from earlier years, and contain some topics that will not appear
 on this year's exams. However, some topics will appear this year that do not
 appear in these examples.
 
+## 10-601 Midterm
+
+* [Fall 2012]({{ '/exams/12f-601-midterm.pdf' | absolute_url }})
+* [Fall 2010]({{ '/exams/10f-601-midterm.pdf' | absolute_url }})
+* [Spring 2009]({{ '/exams/601-M-S09.pdf' | absolute_url }})
+
 ## Midterm
 
 * [Fall 2018]({{ '/exams/701-M-F18.pdf' | absolute_url }})
@@ -52,11 +58,3 @@ appear in these examples.
   * [Solutions]({{ '/exams/final2002-solution.pdf' | absolute_url }})
 * [2001]({{ '/exams/final2001.pdf' | absolute_url }})
   * [Solutions]({{ '/exams/final2001-solution.pdf' | absolute_url }})
-
-
-
-## 10-601 Midterm
-
-* [Fall 2012]({{ '/exams/12f-601-midterm.pdf' | absolute_url }})
-* [Fall 2010]({{ '/exams/10f-601-midterm.pdf' | absolute_url }})
-* [Spring 2009]({{ '/exams/601-M-S09.pdf' | absolute_url }})
