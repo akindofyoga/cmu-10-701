@@ -50,8 +50,8 @@ nav_order: 2
 
 |Date|Lecture Topic|Instructor|Links|
 |----|-------------|----------|-----|
-|Mon Nov-02|Graphical Models (Bayesian Networks)|Ziv       |
-|Wed Nov-04|Graphical Models (Bayesian Networks 2)|Ziv       |
+|Mon Nov-02|Graphical Models (Bayesian Networks)|Ziv       |[Slides]({{ '/slides/lecture17.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/TyCuYuJPfAU)|
+|Wed Nov-04|Graphical Models (Bayesian Networks 2)|Ziv       |[Slides]({{ '/slides/lecture18.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/3n9ZOTHYbBg)|
 |Fri Nov-06|Recitation 8 |          |
 |Mon Nov-09|Sequence Models: HMMs|Ziv       |
 |Wed Nov-11|Sequence Models: State Space Models, other time series models|Ziv       |
