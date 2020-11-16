@@ -51,7 +51,7 @@ nav_order: 2
 |Date|Lecture Topic|Instructor|Links|
 |----|-------------|----------|-----|
 |Mon Nov-02|Graphical Models (Bayesian Networks)|Ziv       |[Slides]({{ '/slides/lecture17.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/TyCuYuJPfAU)|
-|Wed Nov-04|Graphical Models (Bayesian Networks 2)|Ziv       |[Slides]({{ '/slides/lecture18.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/3n9ZOTHYbBg)|
+|Wed Nov-04|Graphical Models (Bayesian Networks 2)|Ziv       |[Slides]({{ '/slides/lecture17.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/3n9ZOTHYbBg)|
 |Fri Nov-06|Recitation 8 |          |
 |Mon Nov-09|Sequence Models: HMMs|Ziv       |[Slides]({{ '/slides/lecture19.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/J4WbsdfsTTw)|
 |Wed Nov-11|Sequence Models: State Space Models, other time series models|Ziv       |[Slides]({{ '/slides/lecture20.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/6JeKwI9Y3-E)|
@@ -61,8 +61,8 @@ nav_order: 2
 
 |Date|Lecture Topic|Instructor|Links|
 |----|-------------|----------|-----|
-|Mon Nov-16|Learning Theory: Statistical Guarantees for Empirical Risk Minimization|Eric      |
-|Wed Nov-18|Generalization, Model Selection|Eric      |
+|Mon Nov-16|Learning Theory: Statistical Guarantees for Empirical Risk Minimization|Eric      |[Slides]({{ '/slides/lecture21.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/F-LvvhcKIvI)|
+|Wed Nov-18|Generalization, Model Selection|Eric      |[Slides]({{ '/slides/lecture22.pdf' | absolute_url }})|
 |Fri Nov-20|Recitation 10 Proposed Final Exam Review|          |
 |Mon Nov-23|**Exam**{: .label }         |          |
 |Wed Nov-25|**No Classes: Thanksgiving**{: .label .label-red }|          |
@@ -73,8 +73,8 @@ nav_order: 2
 |Date|Lecture Topic|Instructor|Links|
 |----|-------------|----------|-----|
 |Mon Nov-30|Industry lecture|          |
-|Wed Dec-02|Reinforcement Learning|Eric      |
+|Wed Dec-02|Reinforcement Learning|Eric      |[Slides]({{ '/slides/lecture24.pdf' | absolute_url }})|
 |Fri Dec-04|Recitation 11|          |
-|Mon Dec-07|Reinforcement Learning 2|Eric      |
+|Mon Dec-07|Reinforcement Learning 2|Eric      |[Slides]({{ '/slides/lecture24.pdf' | absolute_url }})|
 |Wed Dec-09|Project presentations|          |
 |Fri Dec-11|Recitation 12|          |
