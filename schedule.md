@@ -62,7 +62,7 @@ nav_order: 2
 |Date|Lecture Topic|Instructor|Links|
 |----|-------------|----------|-----|
 |Mon Nov-16|Learning Theory: Statistical Guarantees for Empirical Risk Minimization|Eric      |[Slides]({{ '/slides/lecture21.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/F-LvvhcKIvI)|
-|Wed Nov-18|Generalization, Model Selection|Eric      |[Slides]({{ '/slides/lecture22.pdf' | absolute_url }})|
+|Wed Nov-18|Generalization, Model Selection|Eric      |[Slides]({{ '/slides/lecture22.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/v6S6R3E2IDM)|
 |Fri Nov-20|Recitation 10 Proposed Final Exam Review|          |
 |Mon Nov-23|**Exam**{: .label }         |          |
 |Wed Nov-25|**No Classes: Thanksgiving**{: .label .label-red }|          |
