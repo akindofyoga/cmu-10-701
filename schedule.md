@@ -74,7 +74,5 @@ nav_order: 2
 |----|-------------|----------|-----|
 |Mon Nov-30|Industry lecture|          |
 |Wed Dec-02|Reinforcement Learning|Eric      |[Slides]({{ '/slides/lecture24.pdf' | absolute_url }})|
-|Fri Dec-04|Recitation 11|          |
 |Mon Dec-07|Reinforcement Learning 2|Eric      |[Slides]({{ '/slides/lecture24.pdf' | absolute_url }})|
 |Wed Dec-09|Project presentations|          |
-|Fri Dec-11|Recitation 12|          |
