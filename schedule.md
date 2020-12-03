@@ -72,7 +72,7 @@ nav_order: 2
 
 |Date|Lecture Topic|Instructor|Links|
 |----|-------------|----------|-----|
-|Mon Nov-30|Industry lecture|          |
-|Wed Dec-02|Reinforcement Learning|Eric      |[Slides]({{ '/slides/lecture24.pdf' | absolute_url }})|
-|Mon Dec-07|Reinforcement Learning 2|Eric      |[Slides]({{ '/slides/lecture24.pdf' | absolute_url }})|
+|Mon Nov-30|Industry lecture|          |[Slides]({{ '/slides/lecture23.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/Xszib4a24Vw)|
+|Wed Dec-02|Reinforcement Learning|Eric      |[Slides]({{ '/slides/lecture24.pdf' | absolute_url }}) &bull; [Video](https://youtu.be/mdqBa2Dx-8I)|
+|Mon Dec-07|**Lecture canceled**{: .label .label-red }|          |
 |Wed Dec-09|Project presentations|          |
